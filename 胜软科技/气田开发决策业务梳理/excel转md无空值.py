@@ -142,21 +142,44 @@ def excel_to_md(excel_file, sheet_name=0, output_folder='images'):
                 return level, current_nodes[level]
         return None, None
 
+    def get_second_last_non_empty_node(current_nodes):
+        found_one = False
+        for level in ['末级工作节点', '三级节点', '二级节点', '一级节点', '业务场景']:
+            if current_nodes.get(level):
+                if found_one:
+                    return level, current_nodes[level]
+                found_one = True
+        return None, None
+
     def should_hide_heading(df, index, current_nodes, column_mapping):
-        output_col = column_mapping['产出物名称']
-        output_value = df.loc[index, output_col]
-        if pd.isna(output_value):
-            return False, None
-
-        output_value = str(output_value)
         last_node_level, last_node_value = get_last_non_empty_node(current_nodes)
-        if not last_node_value or output_value != last_node_value:
+        second_last_level, second_last_value = get_second_last_non_empty_node(current_nodes)
+
+        if not last_node_value or not second_last_value:
             return False, None
 
-        node_col = column_mapping[last_node_level]
-        same_node_df = df[df[node_col] == last_node_value]
-        unique_outputs = same_node_df[output_col].dropna().unique()
-        return len(unique_outputs) == 1 and str(unique_outputs[0]) == last_node_value, last_node_level
+        # 如果当前值和上一级值相同
+        if last_node_value == second_last_value:
+            # 检查下一行的值
+            next_index = index + 1
+            if next_index < len(df):
+                # 获取下一行的值（考虑合并单元格）
+                next_merged_value = get_merged_value(next_index, column_mapping[second_last_level])
+                if next_merged_value is None:
+                    next_value = df.loc[next_index, column_mapping[second_last_level]]
+                    next_value = str(next_value) if not pd.isna(next_value) else ''
+                else:
+                    next_value = next_merged_value
+
+                # 如果倒数第二级节点的下一行的值与其不同，则隐藏当前节点
+                if next_value != second_last_value:
+                    return True, last_node_level
+            else:
+                return True, last_node_level
+        else:
+            return False, None
+
+        return False, None
 
     markdown_content = ""
     prev_content = {key: '' for key in ['业务场景', '一级节点', '二级节点', '三级节点', '末级工作节点']}
@@ -169,7 +192,8 @@ def excel_to_md(excel_file, sheet_name=0, output_folder='images'):
         if should_hide and node_to_hide:
             current_nodes[node_to_hide] = ''
             prev_content[node_to_hide] = ''
-            last_hidden = (node_to_hide, df.loc[index, column_mapping['产出物名称']])
+            last_node_level, last_node_value = get_last_non_empty_node(current_nodes)
+            last_hidden = (node_to_hide, df.loc[index, column_mapping[last_node_level]])
 
             # 继续递归检查其他节点
             deeper_hidden = process_nodes(df, index, current_nodes, column_mapping, prev_content)
@@ -191,14 +215,16 @@ def excel_to_md(excel_file, sheet_name=0, output_folder='images'):
                 value = row[column_mapping[node_type]]
                 current_nodes[node_type] = str(value) if not pd.isna(value) else ''
 
+        # if sheet_name=='环保工程':
+        #     print(f"当前行的业务场景: {current_nodes['业务场景']}")
         # 处理需要隐藏的节点，并获取最后一个被隐藏的节点信息
         last_hidden = process_nodes(df, index, current_nodes, column_mapping, prev_content)
 
-        # 如果有节点被隐藏，恢复最后一个被隐藏的节点
-        if last_hidden:
-            node_type, output_value = last_hidden
-            current_nodes[node_type] = output_value
-            prev_content[node_type] = ''  # 重置前一个内容，确保节点会被输出
+        # # 如果有节点被隐藏，恢复最后一个被隐藏的节点，保证正确的层级结构显示
+        # if last_hidden:
+        #     node_type, output_value = last_hidden
+        #     current_nodes[node_type] = output_value
+        #     prev_content[node_type] = ''  # 重置前一个内容，确保节点会被输出
 
         last_non_empty_value = ''
         for level in ['业务场景', '一级节点', '二级节点', '三级节点']:
@@ -232,11 +258,9 @@ def excel_to_md(excel_file, sheet_name=0, output_folder='images'):
 
         # 处理产出物
         output_name = str(row[column_mapping['产出物名称']]) if not pd.isna(row[column_mapping['产出物名称']]) else ''
-        # if output_name == "录井要求":
-        #     print(f"当前行的产出物名称为: {output_name}")
-        if output_name and (not last_hidden or output_name != last_hidden[1]):  # 如果没有隐藏的节点或者输出物名称和最后一个被隐藏的节点名称不同，则输出
-            markdown_content += f"- {output_name}\n"
-        elif output_name == last_content:
+        if output_name == "设计井数情况信息表" and sheet_name == '节能评价':
+            print(f"当前行的产出物名称为: {output_name}")
+        if output_name == last_content:
             next_index = index + 1
             if next_index < len(df):
                 next_merged_value = get_merged_value(next_index, column_mapping[last_level])
@@ -248,6 +272,8 @@ def excel_to_md(excel_file, sheet_name=0, output_folder='images'):
 
                 if next_value == last_content:
                     markdown_content += f"- {output_name}\n"
+        else:
+            markdown_content += f"- {output_name}\n"
 
 
         input_style = str(row[column_mapping['输入物样式']]) if not pd.isna(row[column_mapping['输入物样式']]) else ''
