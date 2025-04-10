@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# 1. 打印当前时间
+current_time=$(date "+%Y-%m-%d %H:%M:%S")
+echo "当前时间：$current_time"
+
+# 2. 新建文件
+filename="$(date "+%s")+file.txt"
+class="金信2102班"
+name="单正帅"
+student_id="202118640208"
+touch filename
+echo "$class+$name+$student_id" > "$filename"
+echo "文件已创建：$filename"
+
+# 3. 计算12345679*72
+result=$[12345679*72]
+echo "12345679 * 72 的结果为：$result"
+
+# 4. 统计/etc/profile文件的信息
+line_count=$(wc -l < /etc/profile)
+word_count=$(wc -w < /etc/profile)
+byte_count=$(wc -c < /etc/profile)
+
+# 退出状态码为行数
+echo "行数: $line_count"
+echo "词数: $word_count"
+echo "字节数: $byte_count"
+
+exit $line_count

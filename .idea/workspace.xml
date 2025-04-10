@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa3b4d4f-9687-4274-b2a3-e275c5143560" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/202118640208-单正帅第11周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/data_multivar_cluster.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/11/data_perf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/202118640208-单正帅第12周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/Mall_Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/12/复习计划.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/202118640208-单正帅第13周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/Churn-Modelling-new-tree.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/Churn-Modelling-new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/Churn-Modelling-newT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/movie_ratings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/13/ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/202118640208-单正帅第14周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/ch15_PinganStock.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/102.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/103.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/104.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/105.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/106.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/107.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/108.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/109.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/110.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/112.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/113.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/114.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/115.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/116.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/117.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/118.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/119.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/120.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/122.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/123.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/124.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/125.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/126.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/127.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/128.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/129.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/130.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/131.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/132.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/133.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/134.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/135.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/136.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/137.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/138.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/139.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/140.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/141.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/142.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/143.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/144.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/145.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/146.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/147.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/148.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/149.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/150.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/151.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/152.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/153.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/154.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/155.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/51.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/53.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/54.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/62.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/63.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/66.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/67.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/68.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/69.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/70.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/72.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/73.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/74.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/79.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/83.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/84.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/85.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/86.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/87.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/88.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/89.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/92.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/93.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/94.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/95.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/96.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/97.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/topWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/14/email-text/垃圾邮件分类器.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/2/2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/2/2-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/2/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/202118640208-单正帅第3周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/car.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/data_multivar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/3/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/202118640208-单正帅第4周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/california_housing_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/4/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/5/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/5/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/5/202118640208-单正帅第5周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/6/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/6/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/6/202118640208-单正帅第6周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/6/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/6/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/202118640208-单正帅第7周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/data_multivar_imbalance.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/7/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/8/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/8/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/8/202118640208-单正帅第8周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/8/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/9/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/9/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/9/202118640208-单正帅第9周.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/9/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/.ipynb_checkpoints/notebooke6a2d7b245-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/2024春人工智能与机器学习综合实践期末考核要求.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/creditcard.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/notebooke6a2d7b245.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/notebooke6a2d7b245.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArtificialIntelligence/pythonProject/大作业/sales_details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/综合任务/cifar10_vgg/cifar-10-python.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/综合任务/cifar10_vgg/cifar-10-python.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/综合任务/notebook1f9ee30450 (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/综合任务/notebook1f9ee30450 (1).ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rNg5245FSBqUTfbspPacSHIRXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fa3b4d4f-9687-4274-b2a3-e275c5143560" name="更改" comment="" />
+      <created>1736404762108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736404762108</updated>
+      <workItem from="1736404763303" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
